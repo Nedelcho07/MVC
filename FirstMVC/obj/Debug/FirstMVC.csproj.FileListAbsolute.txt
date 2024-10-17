@@ -1,0 +1,2 @@
+C:\Nedelcho 11a\MVC\FirstMVC\obj\Debug\FirstMVC.csproj.AssemblyReference.cache
+C:\Nedelcho 11a\MVC\FirstMVC\obj\Debug\FirstMVC.csproj.CoreCompileInputs.cache
